@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "description": "Repos promoted into the ranked value tier — discovered to hold concrete, build-out-worthy latent value.",
+  "ranked": [
+    {
+      "repo": "organvm/dot-github--4444j99",
+      "promoted": "2026-06-24",
+      "source": "auto-discovery",
+      "tier": "infrastructure",
+      "value": "Reusable CI governance scaffold that codifies Dependabot policy and safe patch/minor auto-merges for GitHub Actions, reducing dependency drift and maintenance overhead across repositories.",
+      "first_task": "Create a repository bootstrap template that standardizes org-wide Dependabot auto-merge policy (allowed update types, required checks, branch protection/label guards) and pilot it across another active repository.",
+      "thesis": "DISCOVERY.md"
+    }
+  ]
+}
